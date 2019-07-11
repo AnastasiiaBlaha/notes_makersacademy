@@ -38,9 +38,8 @@ Debugging fizzbuzz (successful)
 ### *Exercises*
 
 ### *Projects*
-- oystercard
-- takeaway-challenge
-
+- [oystercard](https://github.com/AnastasiiaBlaha/oystercard) (instructions: https://github.com/makersacademy/course/tree/master/oystercard
+- [takeaway-challenge](https://github.com/AnastasiiaBlaha/takeaway-challenge) (instructions: https://github.com/makersacademy/takeaway-challenge)
 ### **_Feedback_**
 
 
@@ -51,7 +50,7 @@ Debugging fizzbuzz (successful)
 ### *Exercises*
 
 ### *Projects*
-- battle
+- [battle](https://github.com/AnastasiiaBlaha/battle-challenge) (instructions: https://github.com/makersacademy/course/blob/master/intro_to_the_web/getting_started_with_battle.md)
 - RPS-challenge
 
 ### **_Feedback_**
