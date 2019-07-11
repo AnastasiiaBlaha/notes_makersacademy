@@ -17,7 +17,7 @@
 - I can learn anything by myself
 
 
-**Week 1:**
+## **Week 1:**
 
 *Goals*
 
@@ -31,7 +31,7 @@ airport-challenge
 **_Feedback_**
 
 
-**Week 2:**
+## **Week 2:**
 
 *Goals*
 
@@ -44,7 +44,7 @@ takeaway-challenge
 **_Feedback_**
 
 
-**Week 3:**
+## **Week 3:**
 
 *Goals*
 
