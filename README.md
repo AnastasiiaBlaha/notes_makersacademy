@@ -25,8 +25,8 @@
 Debugging fizzbuzz (successful)
 
 ### *Projects*
-- boris-bikes (instructions: https://github.com/makersacademy/course/tree/master/boris_bikes)
-- airport-challenge (instructions: https://github.com/makersacademy/airport_challenge)
+- [boris-bikes](https://github.com/AnastasiiaBlaha/boris_bikes) (instructions: https://github.com/makersacademy/course/tree/master/boris_bikes)
+- [airport-challenge](https://github.com/AnastasiiaBlaha/airport_challenge) (instructions: https://github.com/makersacademy/airport_challenge)
 
 ### **_Feedback_**
 
