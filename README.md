@@ -25,8 +25,8 @@
 Debugging fizzbuzz (successful)
 
 ### *Projects*
-boris-bikes
-airport-challenge
+- boris-bikes
+- airport-challenge
 
 ### **_Feedback_**
 
@@ -38,8 +38,8 @@ airport-challenge
 ### *Exercises*
 
 ### *Projects*
-oystercard
-takeaway-challenge
+- oystercard
+- takeaway-challenge
 
 ### **_Feedback_**
 
@@ -51,8 +51,20 @@ takeaway-challenge
 ### *Exercises*
 
 ### *Projects*
-battle
-RPS-challenge
+- battle
+- RPS-challenge
+
+### **_Feedback_**
+
+## **Week 4:**
+
+### *Goals*
+
+### *Exercises*
+
+### *Projects*
+- 
+-
 
 ### **_Feedback_**
 
