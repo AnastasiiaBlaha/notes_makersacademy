@@ -1,7 +1,7 @@
 # Anastasiia Blaha - Makers Academy Progress
 
 
-# Goals
+# Course Goals
 - I can make anything 
 - I can TDD anything 
 - I can program fluently I can debug anything 
