@@ -16,33 +16,33 @@ Debugging fizzbuzz (successful)
 boris-bikes
 airport-challenge
 
-**_Feedback
+**_Feedback_**
 
 
-**Week 2:
+**Week 2:**
 
-*Goals
+*Goals*
 
-*Exercises
+*Exercises*
 
-*Projects
+*Projects*
 oystercard
 takeaway-challenge
 
-**_Feedback
+**_Feedback_**
 
 
-**Week 3:
+**Week 3:**
 
-*Goals
+*Goals*
 
-*Exercises
+*Exercises*
 
-*Projects
+*Projects*
 battle
 RPS-challenge
 
-**_Feedback
+**_Feedback_**
 
 
 
