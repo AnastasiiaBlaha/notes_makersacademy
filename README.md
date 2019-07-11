@@ -19,42 +19,42 @@
 
 ## **Week 1:**
 
-*Goals*
+### *Goals*
 
-*Exercises*
+### *Exercises*
 Debugging fizzbuzz (successful)
 
-*Projects*
+### *Projects*
 boris-bikes
 airport-challenge
 
-**_Feedback_**
+### **_Feedback_**
 
 
 ## **Week 2:**
 
-*Goals*
+### *Goals*
 
-*Exercises*
+### *Exercises*
 
-*Projects*
+### *Projects*
 oystercard
 takeaway-challenge
 
-**_Feedback_**
+### **_Feedback_**
 
 
 ## **Week 3:**
 
-*Goals*
+### *Goals*
 
-*Exercises*
+### *Exercises*
 
-*Projects*
+### *Projects*
 battle
 RPS-challenge
 
-**_Feedback_**
+### **_Feedback_**
 
 
 
