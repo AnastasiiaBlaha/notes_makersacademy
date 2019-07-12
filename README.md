@@ -20,6 +20,10 @@
 ## **Week 1:**
 
 ### *Goals*
+- Test-drive a simple program using objects and methods
+- Pair using the driver-navigator style
+- Follow an effective debugging process
+- Describe some basic OO principles like encapsulation, SRP
 
 ### *Exercises*
 [Debugging Exercise](https://github.com/AnastasiiaBlaha/design_strategies_1)
@@ -35,6 +39,12 @@
 ## **Week 2:**
 
 ### *Goals*
+- Use all of week 1's skills (don't underestimate the importance of this)
+- Break one class into two classes that work together, while maintaining test coverage
+- Unit test classes in isolation using mocking
+- Explain some basic OO principles and tie them to high level concerns (e.g. ease of change)
+- Review another person's code and give them meaningful feedback
+
 
 ### *Exercises*
 
@@ -47,6 +57,9 @@
 ## **Week 3:**
 
 ### *Goals*
+- Build a simple web app
+- Follow an effective debugging process for web applications
+- Explain the basics of how the web works (e.g. request/response, HTTP, HTML, CSS)
 
 ### *Exercises*
 
