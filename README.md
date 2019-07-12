@@ -26,7 +26,7 @@
 - Describe some basic OO principles like encapsulation, SRP
 
 ### *Exercises*
-[Debugging Exercise](https://github.com/AnastasiiaBlaha/design_strategies_1)
+[Design Strategies / TDD Exercise](https://github.com/AnastasiiaBlaha/design_strategies_1)
 - I learned to test drive my code from the outside in. This basic exercise helped me to understand TDD process more. I am able now to explain this process to my peers in a comprehensive way.
 
 ### *Projects*
