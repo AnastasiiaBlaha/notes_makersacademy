@@ -81,5 +81,19 @@
 
 ### **_Feedback_**
 
+## **Week 5:**
+
+### *Goals*
+
+### *Exercises*
+- count (instructions: https://github.com/maryrosecook/count)
+
+### *Projects*
+- 
+-
+
+### **_Feedback_**
+
+
 
 
